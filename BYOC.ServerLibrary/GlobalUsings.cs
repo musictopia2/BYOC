@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.SignalR;
+global using BYOC.Data.Controllers;
+global using BYOC.Data.Objects;
+global using BYOC.Data.Repositories;
+global using BYOC.Data.Services;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.AspNetCore.ResponseCompression;
+global using BYOC.Data.Helpers;
+global using BYOC.ServerLibrary.Hubs;
